@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-laptop",
+  "version": "1.0.0",
+  "description": "laptop store with node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tashila",
+  "license": "ISC"
+}
